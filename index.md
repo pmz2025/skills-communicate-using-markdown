@@ -9,3 +9,6 @@ oc set volume deployment/webconfig
   configMap/webfiles as webconfig-vol
     mounted at /var/www/html
 ```
+- [x] Turn on Github Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
